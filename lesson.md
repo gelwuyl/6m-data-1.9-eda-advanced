@@ -85,7 +85,7 @@ Continue in the notebook with **Part 3**.
 
 ## 🎯 Wrap-Up
 
-**Key Takeaways:**
+**Key Concept:**
 1. Datetime indexing unlocks time-series operations — resampling and rolling windows are essential for financial and operational data.
 2. Data integration (`merge`) follows the same logic as SQL JOINs — identify the key column that links the tables.
 3. The split-apply-combine pattern (`groupby`) is one of the most powerful tools for generating insights from structured data.
