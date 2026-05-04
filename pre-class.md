@@ -71,7 +71,7 @@ Keep these open during the class. They are excellent for looking up syntax quick
 * [Pandas Data Wrangling Cheatsheet](https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-data-wrangling-in-python)  
 * [Working with Dates and Times in Python](https://www.datacamp.com/cheat-sheet/working-with-dates-and-times-in-python-cheat-sheet)
 
-## **4\. Check for Understanding**
+## **4\. Concept Understanding**
 
 Before moving on, can you answer "Yes" to the following?
 
